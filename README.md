@@ -20,6 +20,9 @@ Click the color palette to select a color.
 
 2026/10/02 Added Alpha channel color code recognition. Colors are normally displayed using the native color picker; pressing Shift + Click opens the custom color picker.
 
+<img width="502" height="286" alt="image" src="https://github.com/user-attachments/assets/05ccc9b6-a7b3-4126-9fff-bb397610cab4" />
+
+
 
 本程式為解決個人使用問題，依賴 Codex GPT-5.6-Terra medium 開發完成
 
