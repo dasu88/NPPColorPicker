@@ -16,6 +16,10 @@ Click the color palette to select a color.
 
 <img width="800" height="384" alt="image" src="https://github.com/user-attachments/assets/0649ba9e-4aa9-43e8-872d-4fd1ff30ede0" />
 
+2026/10/02 增加Alpha色碼辨識，一般均以原生選色器顯示，如以shift+點擊，可以開啟自製選色器
+
+2026/10/02 Added Alpha channel color code recognition. Colors are normally displayed using the native color picker; pressing Shift + Click opens the custom color picker.
+
 
 本程式為解決個人使用問題，依賴 Codex GPT-5.6-Terra medium 開發完成
 

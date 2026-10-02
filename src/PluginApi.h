@@ -5,8 +5,10 @@
 #define NPPMSG  (WM_USER + 1000)
 #define NPPM_GETCURRENTSCINTILLA (NPPMSG + 4)
 #define NPPM_GETSCINTILLAHANDLE  (NPPMSG + 5)
+#define NPPM_GETNATIVELANGFILENAME (NPPMSG + 116)
 #define NPPN_FIRST 1000
 #define NPPN_READY (NPPN_FIRST + 1)
+#define NPPN_NATIVELANGCHANGED (NPPN_FIRST + 31)
 
 struct SCNotification {
     NMHDR nmhdr; intptr_t position; int ch; int modifiers; int modificationType;
